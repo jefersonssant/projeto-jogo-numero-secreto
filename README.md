@@ -8,3 +8,5 @@
 * HTML
 * CSS
 * JavaScript
+
+Acesse o jogo clicando no link ao lado ou [aqui](https://jefersonssant.github.io/projeto-jogo-numero-secreto/).
